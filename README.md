@@ -9,7 +9,7 @@ fast api tutorial
 
 ### Создаем проект
 - создаем папку в которой будем работать `mkdir workdir`
-- `cd wumpus`
+- `cd wordir`
 - Клонируем проект `git clone https://github.com/VasiliySilver/FastAPIProject.git`
 - `cd FastAPIProject`
 
@@ -40,7 +40,6 @@ fast api tutorial
 {"item_id": 5, "q": "somequery"}
 ```
 
-# 
 
 ## Swagger
 
